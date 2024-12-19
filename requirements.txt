@@ -1,5 +1,2 @@
 geemap
-earthengine-api
 voila
-ipywidgets
-matplotlib
