@@ -1,1 +1,1 @@
-web: vaila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True notebooks/mapa.ipynb
+web: vaila --port=$PORT --no-browser --strip_sources=True --enable_nbextensions=True mapa.ipynb
