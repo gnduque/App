@@ -1,4 +1,5 @@
+geemap
+earthengine-api
 voila
-pandas
+ipywidgets
 matplotlib
-numpy
